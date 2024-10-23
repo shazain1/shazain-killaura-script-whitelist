@@ -4,4 +4,5 @@ return {
     "6E8E56C0-5EEA-4C95-9DE7-8576DE5BF273", --gyro
     "fa110590a464683af480fe126028b849cc6d7db7a0406586c1760201e648cb7a", --spectacularsalsa
     "22a9fe4fece909dea225a626e9c4becefaca28132f81ca98eae4b4ef848fb85ebeaeb79e305caf0e74684f56e329adb1", --oldman
+    "7171560118ba8d69c13d52e1c6982a96a87127f2c38427b1cbe41f6265005987", --mistysky
    }
