@@ -7,4 +7,5 @@ return {
     "0e74d67f871d473fe2207c7afb45067eb925e06de19bb5b9fa01fada5771a4a8", --gyro
     "ddf1c73c303100a1b481e1c10239d609500a73105c3e78e6d9d65b2668e296b7", --devil
     "da7c55c8dc1804dd", --hiyall
+    "279cd9358a32034a", --pony
    }
